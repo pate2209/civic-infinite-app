@@ -1,4 +1,3 @@
-HEAD
 Infinite Scrolling App
 
 This is an infinite scrolling web application that displays a virtualized list of numbers. 
